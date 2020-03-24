@@ -1,8 +1,11 @@
-# fluro_study
+# fluro_study 仿商品详情页面功能
 
 
-![Image text](https://common.gdcm.top/images/Kapture%202020-03-24%20at%2021.21.46.gif)
-A new Flutter project.
+
+![Image text](https://github.com/1124863805/study/blob/master/assets/Kapture%202020-03-24%20at%2021.21.46.gif)
+
+
+
 
 ## Getting Started
 
